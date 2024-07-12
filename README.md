@@ -36,7 +36,13 @@
 10. 数据看板
 11. 可设置令牌能调用的模型等
 ## 技术互助/模型需求/交流群
+**微信6群：**
+
 <img src="https://github.com/fdafadfd45/Stable-Azure-OpenAI-chatgpt-API-Key/blob/main/1720770759463.jpg" width="300">
+
+
+**TG新群**
+https://t.me/+Kxj5g1pytmAwZjg5
 
 ## 界面截图
  ![image](https://github.com/fdafadfd45/Stable-Azure-OpenAI-chatgpt-API-Key/blob/main/120240712161545.png) 
