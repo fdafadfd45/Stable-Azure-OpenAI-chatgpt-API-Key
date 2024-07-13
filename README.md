@@ -16,9 +16,7 @@
 > 本项目为个人学习使用，可互动交流问题，使用者必须在遵循 OpenAI 的使用条款以及法律法规的情况下使用，不得用于非法用途。  
 > 根据[《生成式人工智能服务管理暂行办法》](http://www.cac.gov.cn/2023-07/13/c_1690898327029107.htm)的要求，请勿对中国地区公众提供一切未经备案的生成式人工智能服务。
 
-> [!NOTE]
-> 最新版Docker镜像 calciumion/new-api:latest  
-> 更新指令 docker run --rm -v /var/run/docker.sock:/var/run/docker.sock containrrr/watchtower -cR
+
 
 ## 主要变更
 此分叉版本的主要变更如下：
