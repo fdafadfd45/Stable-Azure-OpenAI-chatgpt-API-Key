@@ -33,13 +33,13 @@
 9. 支持渠道**加权随机**
 10. 数据看板
 11. 可设置令牌能调用的模型等
-## 技术互助/模型需求/交流群
-**微信：**
+## 技术互助/模型需求/交流
+**v：**
 spkf789
 <img src="https://github.com/fdafadfd45/Stable-Azure-OpenAI-chatgpt-API-Key/blob/main/1720770759463.jpg" width="300">
 
 
-**TG新群**
+**TG**
 https://t.me/+Kxj5g1pytmAwZjg5
 
 ## 界面截图
